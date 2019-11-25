@@ -4,7 +4,7 @@ include "function.php";
 echo color("red"," ===========================\n");
 echo color("red","| Claim Voucher Gojek|\n");
 echo color("red","| Auto create Gojek X Redeem voucher |\n");
-echo color("red","| github: P3RT4M4/gofood |\n");
+echo color("red","| github: P3RT4M4/nuyulgofood |\n");
 echo color("red","| fanspage :DimasTersakiti145|\n");
 echo color("red","| Creator : DarkLyne7          |\n");
 echo "| Version : Premium X pertalite      |\n";
